@@ -30,7 +30,7 @@ It autonomously creates files, installs dependencies, sets up Prisma + PostgreSQ
 Built for the Gemini 3 Hackathon 2026.  
 → [View Repository](https://github.com/kywthiha/nextjs-agent-cli)
 
-**DuoMRReview** *(Newest Side Project)*  
+**DuoMRReview**
 AI-powered code review assistant developed during the **GitLab AI Hackathon**.  
 Focused on improving code collaboration and review workflows using AI.  
 → [View Project](https://gitlab.com/gitlab-ai-hackathon/participants/35496680)
